@@ -1,0 +1,123 @@
+13.4446 	WARNING 	Couldn't measure a consistent frame rate!
+  - Is your graphics card set to sync to vertical blank?
+  - Are you running other processes on your computer?
+
+13.4472 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x7fba2281d430>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x7fba2281d3d0>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x7fba2281d250>, gamma=None, gammaErrorPolicy='raise', lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x7fba14395af0>, multiSample=False, name='window1', numSamples=2, pos=[427.5, 276.75], screen=0, size=array([3420, 2214]), stencilBits=0, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=True, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+13.4475 	EXP 	window1: mouseVisible = True
+13.4475 	EXP 	window1: backgroundImage = ''
+13.4475 	EXP 	window1: backgroundFit = 'none'
+13.4509 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+13.4509 	EXP 	window1: recordFrameIntervals = False
+13.5355 	EXP 	window1: recordFrameIntervals = True
+14.3789 	WARNING 	Couldn't measure a consistent frame rate!
+  - Is your graphics card set to sync to vertical blank?
+  - Are you running other processes on your computer?
+
+14.3803 	EXP 	window1: mouseVisible = False
+16.5317 	EXP 	lextale_en: status = STARTED
+16.5321 	EXP 	window1: mouseVisible = True
+16.5426 	EXP 	Created text_lextale_en_instructions = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_lextale_en_instructions', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=0.8)
+16.5427 	EXP 	window1: mouseVisible = True
+16.5436 	EXP 	Created text_lextale_en_instructions_continue = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.03, italic=False, languageStyle='LTR', name='text_lextale_en_instructions_continue', opacity=1.0, ori=0, pos=array([ 0. , -0.4]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+16.5436 	EXP 	window1: mouseVisible = True
+16.5695 	EXP 	Created text_lextale_en_practice_label = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([ 1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='text_lextale_en_practice_label', opacity=1.0, ori=0, pos=array([0. , 0.3]), rgb=UNKNOWN, text='PRACTICE', units='height', win=Window(...), wrapWidth=1)
+16.5696 	EXP 	window1: mouseVisible = True
+16.5702 	EXP 	Created text_lextale_en_practice_word = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1.,  1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='text_lextale_en_practice_word', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+16.5703 	EXP 	window1: mouseVisible = True
+16.5709 	EXP 	Created text_lextale_en_practice_real_label = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-3.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='text_lextale_en_practice_real_label', opacity=1.0, ori=0, pos=array([-0.3, -0.3]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+16.5710 	EXP 	window1: mouseVisible = True
+16.5716 	EXP 	Created text_lextale_en_practice_false_label = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-4.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='text_lextale_en_practice_false_label', opacity=1.0, ori=0, pos=array([ 0.3, -0.3]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+16.5717 	EXP 	window1: mouseVisible = True
+16.5723 	EXP 	Created text_lextale_eng_practice_feedback = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='text_lextale_eng_practice_feedback', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+16.5724 	EXP 	window1: mouseVisible = True
+16.5823 	EXP 	Created text_lextale_en_check = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.09, italic=False, languageStyle='LTR', name='text_lextale_en_check', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text='Ready?\n\nPress the SPACE BAR to begin.', units='height', win=Window(...), wrapWidth=1)
+16.5824 	EXP 	window1: mouseVisible = True
+16.5830 	EXP 	Created text_lextale_en_trial_word = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1.,  1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='text_lextale_en_trial_word', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+16.5830 	EXP 	window1: mouseVisible = True
+16.5837 	EXP 	Created text_lextale_en_trial_real_label = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='text_lextale_en_trial_real_label', opacity=1.0, ori=0, pos=array([-0.3, -0.3]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+16.5837 	EXP 	window1: mouseVisible = True
+16.5844 	EXP 	Created text_lextale_en_trial_false_label = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-3.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='text_lextale_en_trial_false_label', opacity=1.0, ori=0, pos=array([ 0.3, -0.3]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+16.5845 	EXP 	window1: mouseVisible = True
+16.5925 	EXP 	Created text_lextale_en_end = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='text_lextale_en_end', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+0.0236 	EXP 	Imported instructions/lextale_en_instructions_text.xlsx as conditions, 4 conditions, 2 params
+0.0247 	EXP 	Created sequence: sequential, trialTypes=4, nReps=1, seed=None
+0.0249 	EXP 	New trial (rep=0, index=0): {'instructions_text': 'This is a vocabulary test in English. \n  \n  You will see 60 letter strings that could be English words.\n  \n  But only a few of them are REAL WORDS.', 'continue_text': 'Press the SPACE BAR to continue'}
+0.0662 	WARNING 	t of last frame was 50.54ms (=1/19)
+0.0662 	EXP 	text_lextale_en_instructions: height = 0.05
+0.0662 	EXP 	text_lextale_en_instructions: height = 0.05
+0.0662 	EXP 	text_lextale_en_instructions: height = 0.05
+0.0662 	EXP 	text_lextale_en_instructions: text = 'This is a vocabulary test in English. \n  \n  You will see 60 letter strings that could be English words.\n  \n  But only a few of them are REAL WORDS.'
+0.0662 	EXP 	text_lextale_en_instructions_continue: height = 0.030000000000000002
+0.0662 	EXP 	text_lextale_en_instructions_continue: height = 0.030000000000000002
+0.0662 	EXP 	text_lextale_en_instructions_continue: height = 0.030000000000000002
+0.0662 	EXP 	text_lextale_en_instructions_continue: text = 'Press the SPACE BAR to continue'
+0.0662 	EXP 	text_lextale_en_instructions: autoDraw = True
+1.4950 	EXP 	text_lextale_en_instructions_continue: autoDraw = True
+1.6959 	WARNING 	t of last frame was 20.47ms (=1/48)
+1.8890 	EXP 	New trial (rep=0, index=1): {'instructions_text': 'Please, indicate whether the letter strings that you see are REAL words or not.   \n      \n    You do not have to know the meaning of the words. You just have to indicate if you think the string is a real word or not, even if you do not know the meaning.', 'continue_text': 'Press the SPACE BAR to continue'}
+1.9095 	DATA 	Keypress: space
+1.9150 	WARNING 	t of last frame was 72.19ms (=1/13)
+1.9150 	EXP 	text_lextale_en_instructions: autoDraw = False
+1.9150 	EXP 	text_lextale_en_instructions_continue: autoDraw = False
+1.9150 	EXP 	text_lextale_en_instructions: height = 0.05
+1.9150 	EXP 	text_lextale_en_instructions: height = 0.05
+1.9150 	EXP 	text_lextale_en_instructions: height = 0.05
+1.9150 	EXP 	text_lextale_en_instructions: text = 'Please, indicate whether the letter strings that you see are REAL words or not.   \n      \n    You do not have to know the meaning of the words. You just have to indicate if you think the string is a real word or not, even if you do not know the meaning.'
+1.9150 	EXP 	text_lextale_en_instructions_continue: text = 'Press the SPACE BAR to continue'
+1.9150 	EXP 	text_lextale_en_instructions: autoDraw = True
+2.4035 	EXP 	New trial (rep=0, index=2): {'instructions_text': 'BE CAREFUL!   \n      \n    Errors are penalized. Mark as REAL only the words that you think you have seen before.', 'continue_text': 'Press the SPACE BAR to continue'}
+2.4352 	DATA 	Keypress: space
+2.4406 	WARNING 	t of last frame was 38.48ms (=1/25)
+2.4406 	EXP 	text_lextale_en_instructions: autoDraw = False
+2.4406 	EXP 	text_lextale_en_instructions_continue: autoDraw = False
+2.4406 	EXP 	text_lextale_en_instructions: height = 0.05
+2.4406 	EXP 	text_lextale_en_instructions: height = 0.05
+2.4406 	EXP 	text_lextale_en_instructions: height = 0.05
+2.4406 	EXP 	text_lextale_en_instructions: text = 'BE CAREFUL!   \n      \n    Errors are penalized. Mark as REAL only the words that you think you have seen before.'
+2.4406 	EXP 	text_lextale_en_instructions_continue: text = 'Press the SPACE BAR to continue'
+2.4406 	EXP 	text_lextale_en_instructions: autoDraw = True
+2.7640 	DATA 	Keypress: space
+2.7708 	EXP 	New trial (rep=0, index=3): {'instructions_text': "Press the number 1 key if you think that the string is a REAL word. \n    \n    Press the number 0 key if you think that the string is a FALSE word.                        \n    \n    Let's practice a little bit…", 'continue_text': 'Press the SPACE BAR to continue'}
+2.7941 	WARNING 	Multiple dropped frames have occurred - I'll stop bothering you about them!
+2.7939 	EXP 	text_lextale_en_instructions: autoDraw = False
+2.7939 	EXP 	text_lextale_en_instructions_continue: autoDraw = False
+2.7939 	EXP 	text_lextale_en_instructions: height = 0.05
+2.7939 	EXP 	text_lextale_en_instructions: height = 0.05
+2.7939 	EXP 	text_lextale_en_instructions: height = 0.05
+2.7939 	EXP 	text_lextale_en_instructions: text = "Press the number 1 key if you think that the string is a REAL word. \n    \n    Press the number 0 key if you think that the string is a FALSE word.                        \n    \n    Let's practice a little bit…"
+2.7939 	EXP 	text_lextale_en_instructions_continue: text = 'Press the SPACE BAR to continue'
+2.7939 	EXP 	text_lextale_en_instructions: autoDraw = True
+3.0582 	DATA 	Keypress: space
+3.0728 	EXP 	Imported trials/lextale_practice_trials.xlsx as conditions, 3 conditions, 3 params
+3.0734 	EXP 	Created sequence: sequential, trialTypes=3, nReps=1, seed=None
+3.0736 	EXP 	New trial (rep=0, index=0): {'stim': 0, 'word': 'platery', 'correct_response': 0}
+3.0901 	EXP 	text_lextale_en_instructions: autoDraw = False
+3.0901 	EXP 	text_lextale_en_instructions_continue: autoDraw = False
+3.0901 	EXP 	text_lextale_en_practice_word: height = 0.1
+3.0901 	EXP 	text_lextale_en_practice_word: height = 0.1
+3.0901 	EXP 	text_lextale_en_practice_word: height = 0.1
+3.0901 	EXP 	text_lextale_en_practice_word: text = 'platery'
+3.0901 	EXP 	text_lextale_en_practice_real_label: height = 0.1
+3.0901 	EXP 	text_lextale_en_practice_real_label: height = 0.1
+3.0901 	EXP 	text_lextale_en_practice_real_label: height = 0.1
+3.0901 	EXP 	text_lextale_en_practice_real_label: text = 'REAL'
+3.0901 	EXP 	text_lextale_en_practice_false_label: height = 0.1
+3.0901 	EXP 	text_lextale_en_practice_false_label: height = 0.1
+3.0901 	EXP 	text_lextale_en_practice_false_label: height = 0.1
+3.0901 	EXP 	text_lextale_en_practice_false_label: text = 'FALSE'
+3.0901 	EXP 	text_lextale_en_practice_label: autoDraw = True
+3.2563 	DATA 	Keypress: space
+3.3115 	EXP 	text_lextale_en_practice_real_label: autoDraw = True
+3.3115 	EXP 	text_lextale_en_practice_false_label: autoDraw = True
+3.5056 	DATA 	Keypress: space
+3.5598 	EXP 	text_lextale_en_practice_word: autoDraw = True
+3.8227 	DATA 	Keypress: space
+4.2734 	DATA 	Keypress: space
+5.1932 	DATA 	Keypress: escape
+5.2859 	EXP 	lextale_en: status = STOPPED
+5.2897 	EXP 	text_lextale_en_practice_label: autoDraw = False
+5.2897 	EXP 	text_lextale_en_practice_word: autoDraw = False
+5.2897 	EXP 	text_lextale_en_practice_real_label: autoDraw = False
+5.2897 	EXP 	text_lextale_en_practice_false_label: autoDraw = False
+5.2897 	EXP 	lextale_en: status = STOPPED
+5.3162 	EXP 	window1: mouseVisible = True

@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 This experiment was created using PsychoPy3 Experiment Builder (v2023.2.3),
-    on Wed Oct 23 17:50:26 2024
+    on Wed Oct 23 18:16:22 2024
 If you publish work using this script the most relevant publication is:
 
     Peirce J, Gray JR, Simpson S, MacAskill M, Höchenberger R, Sogo H, Kastman E, Lindeløv JK. (2019) 
@@ -36,11 +36,11 @@ from psychopy.hardware import keyboard
 _thisDir = os.path.dirname(os.path.abspath(__file__))
 # Store info about the experiment session
 psychopyVersion = '2023.2.3'
-expName = 'lextale_en_nsf'  # from the Builder filename that created this script
+expName = 'lextale_en'  # from the Builder filename that created this script
 expInfo = {
     'CUNYid*': '',
     'Name*': '',
-    'Last name*': '',
+    'LastName*': '',
     'College*': ["john-jay", "hostos"],
     'date': data.getDateStr(),  # add a simple timestamp
     'expName': expName,
@@ -97,7 +97,7 @@ def setupData(expInfo, dataDir=None):
     # data file name stem = absolute path + name; later add .psyexp, .csv, .log, etc
     if dataDir is None:
         dataDir = _thisDir
-    filename = u'data/%s_%s_%s_%s' % (expInfo['CUNYid*'], expInfo['Name*'], expInfo['Last name*'], expInfo['date'])
+    filename = u'data/%s_%s_%s_%s' % (expInfo['CUNYid*'], expInfo['Name*'], expInfo['LastName*'], expInfo['date'])
     # make sure filename is relative to dataDir
     if os.path.isabs(filename):
         dataDir = os.path.commonprefix([dataDir, filename])

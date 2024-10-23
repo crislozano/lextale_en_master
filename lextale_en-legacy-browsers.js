@@ -8,7 +8,7 @@ let expName = 'lextale_en';  // from the Builder filename that created this scri
 let expInfo = {
     'CUNYid*': '',
     'Name*': '',
-    'Last name*': '',
+    'LastName*': '',
     'College*': ["john-jay", "hostos"],
 };
 
@@ -107,7 +107,7 @@ async function updateInfo() {
 
 
   
-  psychoJS.experiment.dataFileName = (("." + "/") + `data/${expInfo["CUNYid*"]}_${expInfo["Name*"]}_${expInfo["Last name*"]}_${expInfo["date"]}`);
+  psychoJS.experiment.dataFileName = (("." + "/") + `data/${expInfo["CUNYid*"]}_${expInfo["Name*"]}_${expInfo["LastName*"]}_${expInfo["date"]}`);
   psychoJS.experiment.field_separator = '\t';
 
 

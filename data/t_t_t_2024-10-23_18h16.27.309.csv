@@ -1,0 +1,18 @@
+﻿instructions_text,continue_text,lextale_en_instructions_loop.thisRepN,lextale_en_instructions_loop.thisTrialN,lextale_en_instructions_loop.thisN,lextale_en_instructions_loop.thisIndex,lextale_en_practice_loop.thisRepN,lextale_en_practice_loop.thisTrialN,lextale_en_practice_loop.thisN,lextale_en_practice_loop.thisIndex,stim,word,correct_response,thisRow.t,notes,lextale_en_instructions.started,lextale_en_instructions.stopped,lextale_en_practice.started,CUNYid*,Name*,LastName*,College*,date,expName,psychopyVersion,frameRate,expStart,
+"This is a vocabulary test in English. 
+  
+  You will see 60 letter strings that could be English words.
+  
+  But only a few of them are REAL WORDS.",Press the SPACE BAR to continue,0,0,0,0,,,,,,,,0.06617554200056475,,0.024868416992831044,1.8887344999966444,,t,t,t,john-jay,2024-10-23_18h16.27.309,lextale_en,2023.2.3,None,2024-10-23 18h16.39.693506 -0400,
+"Please, indicate whether the letter strings that you see are REAL words or not.   
+      
+    You do not have to know the meaning of the words. You just have to indicate if you think the string is a real word or not, even if you do not know the meaning.",Press the SPACE BAR to continue,0,1,1,1,,,,,,,,1.915004582988331,,1.8890754999883939,2.403155791995232,,t,t,t,john-jay,2024-10-23_18h16.27.309,lextale_en,2023.2.3,None,2024-10-23 18h16.39.693506 -0400,
+"BE CAREFUL!   
+      
+    Errors are penalized. Mark as REAL only the words that you think you have seen before.",Press the SPACE BAR to continue,0,2,2,2,,,,,,,,2.4406473749986617,,2.403564499996719,2.770461832988076,,t,t,t,john-jay,2024-10-23_18h16.27.309,lextale_en,2023.2.3,None,2024-10-23 18h16.39.693506 -0400,
+"Press the number 1 key if you think that the string is a REAL word. 
+    
+    Press the number 0 key if you think that the string is a FALSE word.                        
+    
+    Let's practice a little bit…",Press the SPACE BAR to continue,0,3,3,3,,,,,,,,2.7938590829871828,,2.770818082994083,3.0645804579980904,,t,t,t,john-jay,2024-10-23_18h16.27.309,lextale_en,2023.2.3,None,2024-10-23 18h16.39.693506 -0400,
+,,,,,,,,,,,,,3.090142457993352,,,,3.073639666996314,,,,,,,,,,
